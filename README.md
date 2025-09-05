@@ -1,10 +1,13 @@
 # bus_tracker
 
-A new Flutter project.
+This is the Admin side of a Bus Tracker/Fleet Management App.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project utlilizes flutter to build a desktop application which would allow an admin to track 
+his/her bus/fleet using the client/driver mobile app.
+
+Firebase for the backend and authnetication. Yet to add role based authentication and local storage for app data and preferences
 
 A few resources to get you started if this is your first Flutter project:
 
