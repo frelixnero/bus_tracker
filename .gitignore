@@ -43,3 +43,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+#firebase
+firebase.json
+.firebaserc
+lib/firebase_options.dart
+firebase_options.dart
+# End of https://www.gitignore.io/api/dart,flutter,visualstudiocode,intellij
